@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmingthegod" alt="programmingthegod" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/god_programmer" target="blank"><img src="https://img.shields.io/twitter/follow/god_programmer?logo=twitter&style=for-the-badge" alt="god_programmer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/harshgods" target="blank"><img src="https://img.shields.io/twitter/follow/harshgods?logo=twitter&style=for-the-badge" alt="harshgods" /></a> </p>
 
 - 🔭 I’m currently working on [Radiance website](https://github.com/programmingthegod/radiance)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/god_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="god_programmer" height="30" width="40" /></a>
+<a href="https://twitter.com/harshgods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshgods" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/programmingthegod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="programmingthegod" height="30" width="40" /></a>
 <a href="https://instagram.com/harshgods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshgods" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@dev-shastra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dev-shastra" height="30" width="40" /></a>
