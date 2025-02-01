@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/harshgods" target="blank"><img src="https://img.shields.io/twitter/follow/harshgods?logo=twitter&style=for-the-badge" alt="harshgods" /></a> </p>
 
-- 🔭 I’m currently working on [Radiance website](https://github.com/programmingthegod/radiance)
-
-- 🌱 I’m currently learning **Tensorflow, React.js, Vue.js and Node.js**
-
 - 👯 I’m looking to collaborate on **various software development projects**
 
 - 💬 Ask me about **AI, ML, Python, C++, Django and other Programming Languages**
 
-- 📫 How to reach me **aitpune.harshbisht@gmail.com**
+- 📫 My personal portfolio website : **https://programmingthegod.github.io/harshbisht/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
